@@ -1,1 +1,1 @@
-This is a new file created by a Jenkins job.
+This file was created by Jenkins.
